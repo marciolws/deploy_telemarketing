@@ -50,7 +50,7 @@ def df_to_excel(df: pd.DataFrame):
 
 def main():
     st.set_page_config(
-        page_title="EBAC | Módulo 19 | Streamlit II | Exercício 2",
+        page_title="EBAC | Módulo 28 | Streamlit III e IV ",
         page_icon="https://raw.githubusercontent.com/marciolws/Curso_EBAC_Cientista_de_Dados/refs/heads/main/EBAC-media-utils/logo/telmarketing_icon.png",
         layout="wide",
         initial_sidebar_state="expanded",
@@ -68,10 +68,10 @@ def main():
     ---
 
     <!-- # **Profissão: Cientista de Dados** -->
-    ### **Módulo 19** | Streamlit II | Exercício 2
+    ### **Módulo 28** | Streamlit III e IV 
 
     **Aluno:** [Marcio da Silva](https://github.com/marciolws/)<br>
-    **Data:** 21 de setembro de 2024.
+    **Data:** 12 de outubro de 2024.
 
     ---
     """,
