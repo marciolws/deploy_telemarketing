@@ -1,58 +1,42 @@
-# Título do projeto
-
-Um simples resumo do uso/propósito do projeto.
+# Analises de dados
+Interpretando os resultados da análise de forma clara e concisa.
+Com uso de gráficos e dashboards interativos para apresentar os resultados.
 
 ## Descrição do projeto
-
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+Um script Python (app_7.py) onde foi implementado um botao de upload para carregar arquivos CSV com intuito de realizar analise e vizualizaçao de dados usando bibliotecas como Pandas, Matplotlib e Seaborn para manipulação e visualização de dados.
 
 ### Link para aplicaçao:
 https://telemarketing-77pt.onrender.com
 
 ## Utilização
+Faça o upload de sua planilha em formato CSV e o aplicativo irá de forma clara e consica mostar informaçoes e gerar gráficos para que possa ser analisado de forma visual.
 
 ### Dependencias
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
+Usando bibliotecas como Pandas, Matplotlib e Seaborn para manipulação e visualização de dados.
+Usado o Mac Os X.
 
 ### Instalação
 
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
-
-### Executando o projeto
-
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
+Atráves do link (clincando no meu nome) no proprio aplicativo, voce será redirecionado para meu Github e poderá realizar o donwload dos arquivos.
 
 ## Ajuda
 
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
+Caso o app apresente algum erro, favor reportar através do email (marcio@str.com.br)
 
 ## Autores
 
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
-
-ex. Marcio Silva 
-ex. [LindedIn]([https://www.linkedin.com/in/lucasserra03/](https://www.linkedin.com/in/marcio-d-silva/))
+ex. Marcio da Silva
+ex. [@LinkedIn](https://www.linkedin.com/in/marcio-d-silva/)
 
 ## Histórico de versões.
 
-* 0.2
-	* Ajustes de diversos bugs e otimização
 * 0.1
     * Primeira versão
 
 ## Licença de uso
 
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
+Esse projeto possui licença de uso [Marcio Silva] - acesse o arquivo LICENSE.md para mais detalhes.
 
 ## Fontes de inspiração
 
