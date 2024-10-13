@@ -26,13 +26,12 @@ Caso o app apresente algum erro, favor reportar através do email (marcio@str.co
 
 ## Autores
 
-ex. Marcio da Silva
-ex. [@LinkedIn](https://www.linkedin.com/in/marcio-d-silva/)
+Marcio da Silva / [@LinkedIn](https://www.linkedin.com/in/marcio-d-silva/)
 
 ## Histórico de versões.
 
-* 0.1
-    * Primeira versão
+0.1
+-Primeira versão.
 
 ## Licença de uso
 
